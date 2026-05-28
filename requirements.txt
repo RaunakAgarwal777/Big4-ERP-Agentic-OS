@@ -1,5 +1,6 @@
-pandas
 streamlit
-langgraph
-langchain_core
+pandas
+numpy
 scikit-learn
+langgraph
+langchain-core
